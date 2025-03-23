@@ -8,7 +8,11 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: #f5f5f5;
+    background: linear-gradient(
+        135deg,
+        rgb(25, 199, 244),
+        rgb(144, 200, 255)
+    );
 }
 .container {
     position: relative;
